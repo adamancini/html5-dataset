@@ -1,0 +1,7 @@
+Original work by Eli Grey
+http://code.eligrey.com/html5/dataset
+Licensed under GNU LGPL
+httpL//www.gnu.org/licenses/lgpl.html
+
+Modified by Adalgiso J Mancini IV
+updated to conform to the current HTML5 spec for camelcasing of data- attributes
